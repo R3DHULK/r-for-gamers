@@ -1,6 +1,6 @@
 # Define the function to play the game
 play_game <- function() {
-  cat("Welcome to the Cricket Game!\n")
+  cat("Welcome To The Cricket Game!\n")
   
   # Set up the initial variables
   runs <- 0
